@@ -1,10 +1,13 @@
 <img width="1128" height="536" alt="螢幕擷取畫面 2026-11-01 171626" src="https://github.com/user-attachments/assets/ecd53295-0815-4c78-a855-af646aff453e" />
 
 github 連結 
+
 https://elearn2.fju.edu.tw/course/395232/learning-activity#/3168880
 
 youtube 連結 
+
 電腦測試︰https://youtu.be/_ujxnEbuqUk
+
 手機測試：https://youtube.com/shorts/UxZueD0WQl0?feature=share
 
 製作內容
